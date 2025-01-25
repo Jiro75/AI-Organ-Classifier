@@ -31,14 +31,14 @@ https://github.com/user-attachments/assets/8e79c919-8993-4af8-a3da-071d8280b3a6
 ## Dataset 📖
 Here is a link for the dataset used in training the model: https://drive.google.com/file/d/1ONFwkFTxkGCnTX5IfnGnE1rg9vz55csv/view?usp=sharing
 
-## Contributers
+## Contributors 🦸‍♂️
 - Mostafa Hany
 - Mostafa Hazem
 - Muhammad Nasser
 
-## 🧾 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Brain-Viewer/blob/43c15e42a9aafc12035254abe77d74a6714705e3/LICENSE) for details.
+## License 🧾
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/AI-Organ-Classifier/blob/67aedf784f6c46ac4acb526b1b8720ee78b4ec0b/LICENSE) for details.
 
-## 📞 Contact
+## Contact 📞
 Email: Mostafahany4705@gmail.com <br>
 LinkedIn: www.linkedin.com/in/mostafahany4705
