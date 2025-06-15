@@ -1,5 +1,6 @@
 
-![Screenshot 2025-01-07 053621](https://github.com/user-attachments/assets/4988def3-6675-44bc-a3f6-758c4b7ca468) <br><br>
+![Screenshot 2025-06-15 233534](https://github.com/user-attachments/assets/dde406c0-565b-4d13-a616-c1b09ffa52c4)
+ <br><br>
 
 # AI Classifier Model 🧠
 We were able to develop an advanced medical image classification system using machine learning, completed in just one week! The system efficiently classifies vital organs including heart, brain, breast, and limbs images.
@@ -26,7 +27,10 @@ This project not only enhanced our technical expertise in biomedical AI applicat
 ## Project Video 📽️
 
 
-https://github.com/user-attachments/assets/8e79c919-8993-4af8-a3da-071d8280b3a6
+
+https://github.com/user-attachments/assets/2e6a63e0-577d-4991-902c-66c04560e9be
+
+
 
 ## Dataset 📖
 Here is a link for the dataset used in training the model: https://drive.google.com/file/d/1ONFwkFTxkGCnTX5IfnGnE1rg9vz55csv/view?usp=sharing
